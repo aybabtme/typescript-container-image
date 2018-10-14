@@ -1,5 +1,5 @@
-alpine_version := 3.7
-typescript_version := 2.9.2
+alpine_version := 3.8
+typescript_version := 3.1.1
 
 build:
 	@docker build \
